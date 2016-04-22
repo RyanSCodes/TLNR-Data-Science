@@ -1,1 +1,1 @@
-# Telenor-Data-Science
+# TLNR-Data-Science
