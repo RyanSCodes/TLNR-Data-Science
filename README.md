@@ -10,7 +10,7 @@ in a way. Do you agree after analyzing the data set or you have a different conc
 
 2.	Analyze the Aircrash dataset and find out the following: 
 (Dataset: Airplane_Crashes_Since_1908.csv)
-..a.	Yearly how many planes crashed? How many people were on board? How many survived? 
+..*	Yearly how many planes crashed? How many people were on board? How many survived? 
 How many died?
 ..b.	Highest number of crashes by operator and Type of aircrafts.
 c.	‘Summary’ field has the details about the crashes. Find the reasons of the crash and 
