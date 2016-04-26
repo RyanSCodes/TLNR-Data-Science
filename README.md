@@ -2,19 +2,17 @@
 
 1.	University of Arizona was sued for sex discrimination. Its admission data showed that 
 men applying to graduate school at Arizona were more likely to be admitted than women.
-...The graduate schools had just accepted 44% of male applicants but only 35% of female 
+The graduate schools had just accepted 44% of male applicants but only 35% of female 
 applicants. The difference was so great that it was unlikely to be due to chance.
-...Experts analyzed the data set in detail and find out that discrimination has been carried
+Experts analyzed the data set in detail and find out that discrimination has been carried
 in a way. Do you agree after analyzing the data set or you have a different conclusion? 
 (Dataset: university.csv)
 
-
 2.	Analyze the Aircrash dataset and find out the following: 
 (Dataset: Airplane_Crashes_Since_1908.csv)
-
-a.	Yearly how many planes crashed? How many people were on board? How many survived? 
+..a.	Yearly how many planes crashed? How many people were on board? How many survived? 
 How many died?
-b.	Highest number of crashes by operator and Type of aircrafts.
+..b.	Highest number of crashes by operator and Type of aircrafts.
 c.	‘Summary’ field has the details about the crashes. Find the reasons of the crash and 
 categorize them in different clusters i.e Fire, shot down, weather (for the ‘Blanks’ in 
 the data category can be UNKNOWN) you are open to make clusters of your choice but they 
