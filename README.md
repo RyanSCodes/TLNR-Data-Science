@@ -2,7 +2,8 @@
 
 1.	University of Arizona was sued for sex discrimination. Its admission data showed that 
 men applying to graduate school at Arizona were more likely to be admitted than women.
-The graduate schools had just accepted 44% of male applicants but only 35% of female 
+
+   The graduate schools had just accepted 44% of male applicants but only 35% of female 
 applicants. The difference was so great that it was unlikely to be due to chance.
 Experts analyzed the data set in detail and find out that discrimination has been carried
 in a way. Do you agree after analyzing the data set or you have a different conclusion? 
